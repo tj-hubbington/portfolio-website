@@ -266,7 +266,7 @@ section.intro-text {
 }
 
 section.main-home {
-    background-image: url("/img/TJ-bw.jpeg");
+    background-image: url("../img/TJ-bw.jpeg");
     min-height: 800px;
     background-size: cover;
     background-attachment: fixed;
